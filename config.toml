@@ -1,6 +1,0 @@
-languageCode = "fr-FR"
-title = "Mon blog avec Hugo"
-theme = "touchy-hugo"
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'

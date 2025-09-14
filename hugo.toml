@@ -1,3 +1,7 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://calaglinpilot.github.io/monBlog/"
+languageCode = "fr-FR"
+title = "Mon blog avec Hugo"
+theme = "touchy-hugo"
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
