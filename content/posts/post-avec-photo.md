@@ -6,4 +6,4 @@ title = 'Post Avec Photo'
 
 Ceci est un article de test qui montre comment inclure une image depuis le dossier `static`.
 
-![La famille](/images/img.jpeg)
+![La famille](/static/images/img.jpeg)
