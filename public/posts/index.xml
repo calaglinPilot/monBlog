@@ -6,21 +6,14 @@
     <description>Recent content in Posts on Mon blog avec Hugo</description>
     <generator>Hugo</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 15 Sep 2025 21:16:27 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 15 Sep 2025 19:05:57 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/monBlog/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Post Avec Photo 2</title>
-      <link>http://localhost:1313/monBlog/posts/post-avec-photo-2/</link>
-      <pubDate>Mon, 15 Sep 2025 21:16:27 +0200</pubDate>
-      <guid>http://localhost:1313/monBlog/posts/post-avec-photo-2/</guid>
-      <description>&lt;p&gt;Ceci est un article de test qui montre comment inclure une image depuis le dossier &lt;code&gt;static&lt;/code&gt;.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/monBlog/images/img.jpeg&#34;&#xA;    alt=&#34;La famille2&#34;&gt;&#xA;&lt;/figure&gt;</description>
-    </item>
     <item>
       <title>Test: Post Avec Photo</title>
       <link>http://localhost:1313/monBlog/posts/post-avec-photo/</link>
       <pubDate>Mon, 15 Sep 2025 19:05:57 +0200</pubDate>
       <guid>http://localhost:1313/monBlog/posts/post-avec-photo/</guid>
-      <description>&lt;p&gt;Ceci est un article de test qui montre comment inclure une image depuis le dossier &lt;code&gt;static&lt;/code&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/monBlog/images/img.jpeg&#34; alt=&#34;La famille&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Ceci est un article de test pour afficher une image&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/monBlog/images/img.jpeg&#34;&#xA;    alt=&#34;La famille2&#34;&gt;&#xA;&lt;/figure&gt;</description>
     </item>
     <item>
       <title>Mon Premier Billet</title>
