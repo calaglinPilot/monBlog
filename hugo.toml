@@ -5,3 +5,4 @@ theme = "touchy-hugo"
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
