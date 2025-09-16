@@ -6,4 +6,4 @@ title = 'Post Avec Photo 2'
 
 Ceci est un article de test qui montre comment inclure une image depuis le dossier `static`.
 
-![La famille](/images/img.jpeg)
+{{< figure src="/images/img.jpeg" alt="La famille2" >}}
